@@ -1,7 +1,7 @@
-package guru.springframework.controllers;
+package spring.training.personal.controllers;
 
-import guru.springframework.domain.Product;
-import guru.springframework.services.ProductService;
+import spring.training.personal.domain.Product;
+import spring.training.personal.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

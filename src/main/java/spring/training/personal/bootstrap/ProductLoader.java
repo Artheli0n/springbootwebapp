@@ -1,7 +1,7 @@
-package guru.springframework.bootstrap;
+package spring.training.personal.bootstrap;
 
-import guru.springframework.domain.Product;
-import guru.springframework.repositories.ProductRepository;
+import spring.training.personal.domain.Product;
+import spring.training.personal.repositories.ProductRepository;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

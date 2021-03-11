@@ -1,7 +1,7 @@
-package guru.springframework.repositories;
+package spring.training.personal.repositories;
 
-import guru.springframework.configuration.RepositoryConfiguration;
-import guru.springframework.domain.Product;
+import spring.training.personal.configuration.RepositoryConfiguration;
+import spring.training.personal.domain.Product;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

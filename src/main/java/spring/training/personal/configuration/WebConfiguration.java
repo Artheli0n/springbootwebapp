@@ -1,4 +1,4 @@
-package guru.springframework.configuration;
+package spring.training.personal.configuration;
 
 import org.h2.server.web.WebServlet;
 import org.springframework.boot.web.servlet.ServletRegistrationBean;
